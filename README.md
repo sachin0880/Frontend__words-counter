@@ -20,3 +20,5 @@ The Word Counter Project is a practical application that showcases the power of 
 By the end of this project,we aim to deliver a robust, reliable, and aesthetically pleasing word counter that meets the needs of various users.
 This project not only serves as a valuable tool but also as an educational experience in web development, 
 highlighting the integration of different web technologies to solve real-world problems.
+
+![](https://github.com/sachin0880/Frontend__words-counter/blob/main/words%20counts%20IMAGE.png)
